@@ -1,0 +1,9 @@
+Package: com.zeekforit.autoeqbt
+Name: AutoEQBT
+Depends: mobilesubstrate
+Version: 0.1.1
+Architecture: iphoneos-arm
+Description: Turn on spotify's equalizer on specific BT Devices.
+Maintainer: ZeeK
+Author: ZeeK
+Section: Tweaks
